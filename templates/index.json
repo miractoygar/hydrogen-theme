@@ -38,6 +38,9 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        "header {background-color: rgba(255, 255, 255, 1); color: black;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/WhatsAppImage2024-09-02at12.28.35_15.jpg",
         "full_page_height_enable": true
