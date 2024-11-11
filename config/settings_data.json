@@ -12,9 +12,7 @@
     "sections": {
       "header": {
         "type": "header",
-        "custom_css": [
-          "header {background-color: rgba(255, 255, 255, 1); color: black;}"
-        ],
+        "custom_css": [],
         "settings": {
           "menu": "main-menu",
           "enable_sticky_header": true
