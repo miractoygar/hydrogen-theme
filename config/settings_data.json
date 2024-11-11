@@ -8,7 +8,44 @@
  * ------------------------------------------------------------
  */
 {
-  "current": {},
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "custom_css": [
+          "header {background-color: rgba(255, 255, 255, 1); color: black;}"
+        ],
+        "settings": {
+          "menu": "main-menu",
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "footer-1": {
+            "type": "country_selector",
+            "settings": {
+              "heading": "Country"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "settings": {}
+      }
+    },
+    "content_for_index": []
+  },
   "presets": {
     "Default": {}
   }
