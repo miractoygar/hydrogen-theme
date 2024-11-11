@@ -46,6 +46,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".bg-primary/5{background-color: #fff}"
+      ],
       "settings": {
         "title": "Öne Çıkan Ürünler",
         "collection": "all",

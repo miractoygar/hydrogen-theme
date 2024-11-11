@@ -13,7 +13,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "header {background-color: rgba(255, 255, 255, 1); color: black;}"
+          "header {color: #ffd700;}"
         ],
         "settings": {
           "menu": "main-menu",
