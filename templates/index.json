@@ -38,7 +38,10 @@
         "text",
         "button"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "a {color: #ffd700;}",
+        "div{color: #ffd700;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/WhatsAppImage2024-09-02at12.28.35_15.jpg",
         "full_page_height_enable": true
@@ -47,7 +50,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".bg-primary/5{background-color: #fff}"
+        ".bg-primary/5 {background-color: #fff;}"
       ],
       "settings": {
         "title": "Öne Çıkan Ürünler",
