@@ -26,20 +26,16 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "",
               "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "country_selector",
-            "settings": {
-              "heading": "Country"
             }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1"
+          "footer-0"
+        ],
+        "custom_css": [
+          "div {color: #ffd700;}"
         ],
         "settings": {}
       }

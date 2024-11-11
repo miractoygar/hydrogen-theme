@@ -40,7 +40,7 @@
       ],
       "custom_css": [
         "a {color: #ffd700;}",
-        "div{color: #ffd700;}"
+        "div {color: #ffd700;}"
       ],
       "settings": {
         "image": "shopify://shop_images/WhatsAppImage2024-09-02at12.28.35_15.jpg",
@@ -50,7 +50,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".bg-primary/5 {background-color: #fff;}"
+        "div {color: #ffd700;}"
       ],
       "settings": {
         "title": "Öne Çıkan Ürünler",
@@ -84,6 +84,9 @@
         "featured-collection-0",
         "featured_collection_m7dEQk",
         "featured-collection-2"
+      ],
+      "custom_css": [
+        "div {color: #ffd700;}"
       ],
       "settings": {
         "title": "Collections",
